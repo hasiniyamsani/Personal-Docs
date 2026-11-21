@@ -1,0 +1,43 @@
+Create a professional, academically strong PowerPoint presentation for my Distributed Systems / NoSQL paper presentation on:
+
+**“Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS” — Lloyd et al., SOSP 2011.**
+
+I am presenting the first four sections of the paper. The presentation must fit within **15–20 minutes maximum**.
+
+### Presentation guidelines
+- Prioritise demonstrating deep technical understanding over simply summarising the paper.
+- Explain concepts clearly and logically, assuming the audience has basic knowledge of distributed systems but may not know this paper.
+- Maintain a natural flow between topics, with each concept building on the previous one.
+- Include the important technical details, reasoning, mechanisms, and trade-offs. Do not oversimplify difficult concepts.
+- Focus on the paper's actual contributions and ideas. Do not introduce unsupported claims or unnecessary information from outside the assigned sections.
+- Make the presentation insightful rather than just descriptive. Explain why the authors made particular design choices and what problems those choices solve.
+
+### Slide design and visual guidelines
+- Use a clean, modern, minimal, professional academic design.
+- Maintain a consistent colour palette, typography, spacing, alignment, and visual style throughout.
+- Avoid overcrowded slides, long paragraphs, excessive bullet points, and unnecessarily small text.
+- Use concise phrases, diagrams, tables, flowcharts, and visual explanations wherever they make technical ideas easier to understand.
+- Make important terms and concepts stand out without overusing bold text, colours, or decorative elements.
+- Ensure diagrams are readable and technically accurate, with clearly labelled components and arrows.
+- Prefer original figures and diagrams from the research paper wherever appropriate. Preserve their technical meaning and cite the figure/source.
+- Do not use AI-generated images or decorative stock images. Use meaningful technical visuals only.
+- Do not add animations or transitions or anything of your own.
+
+### Technical accuracy
+- Treat the original research paper as the primary source.
+- Preserve the authors' terminology, definitions, assumptions, algorithms, and technical distinctions.
+- Do not invent examples, experimental results, mechanisms, or conclusions.
+- Check that all diagrams, equations, pseudocode, and explanations accurately represent the paper.
+- Clearly distinguish between concepts that may sound similar but have different technical meanings.
+
+
+
+### Final quality requirements
+- Keep the total presentation within 15–20 minutes.
+- Use an appropriate number of slides for the time available. Do not add slides just to increase the count.
+- Ensure the slides are presentation-ready, not like a written report.
+- Avoid making the slides look like copied textbook notes.
+- The final presentation should demonstrate that I understand the paper's motivation, technical ideas, system design, and contributions.
+- Do not write a full word-for-word speech. The slides and notes should support a confident, natural explanation.
+
+The final result should look like a high-quality university research paper presentation: technically rigorous, visually clear, concise, and easy to explain.
